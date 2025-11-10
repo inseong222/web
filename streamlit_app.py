@@ -192,7 +192,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.write("이미지 표시 예제")
-    st.image("https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png", caption="Streamlit 로고")
+    st.image("https://www.youtube.com/watch?v=qrqHlgqNTHo")
 
 with col2:
     st.write("유튜브 동영상 예제")
